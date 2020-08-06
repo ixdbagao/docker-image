@@ -1,0 +1,4 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+172.16.213.51   kafkazk1
+172.16.213.75   kafkazk2
+172.16.213.109   kafkazk3
